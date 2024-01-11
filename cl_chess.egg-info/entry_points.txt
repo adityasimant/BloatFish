@@ -1,0 +1,3 @@
+[console_scripts]
+chess = src.main:main
+
